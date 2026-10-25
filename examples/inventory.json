@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "name": "LAB-PE-01",
+      "transport": "mock",
+      "fixture": "mock/healthy"
+    },
+    {
+      "name": "LAB-PE-02",
+      "transport": "mock",
+      "fixture": "mock/degraded"
+    }
+  ]
+}

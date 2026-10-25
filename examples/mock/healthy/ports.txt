@@ -1,0 +1,5 @@
+Port Admin Oper Description
+1/1/c1/1 up up uplink-A
+1/1/c2/1 up up uplink-B
+1/1/c3/1 down down spare
+Total: 3

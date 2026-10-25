@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+reports/
+.env*
+secrets/
+*private*key*
+inventory.local.json
+known_hosts.local

@@ -1,0 +1,3 @@
+Lag Admin Oper Active Total Min
+1 up up 1 2 1
+Total: 1

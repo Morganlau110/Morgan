@@ -1,0 +1,4 @@
+Neighbor AS State Received Active Sent
+192.0.2.1 64512 Established 100 95 20
+2001:db8::2 64513 Idle - - -
+Total: 2
